@@ -1,0 +1,19 @@
+# Material privado del docente (guías, apuntes, claves de respuesta)
+**/_docente/
+
+# Sistema y herramientas
+.DS_Store
+Thumbs.db
+desktop.ini
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.tmp
+~$*
+
+# Datos personales de estudiantes
+**/Dudas_Estudiantes.md
+
+# Aún no publicado
+Semana_02/Sesion_02/
