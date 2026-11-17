@@ -1,6 +1,6 @@
 # Semana 2 · Herramientas para tu reto
 
-En estas dos sesiones aprendes las herramientas de IA generativa que te servirán para construir y probar la solución de tu **reto empresarial de la hackatón (AZA Gestión del Riesgo)**. No te damos la solución: tu equipo la diseña. Practicamos con un caso ficticio parecido y luego lo aplicas a tu reto.
+En estas dos sesiones aprendes las herramientas de IA generativa que te servirán para construir y probar la solución de tu **reto empresarial de la hackatón**. No te damos la solución: tu equipo la diseña. Practicamos con un caso ficticio parecido y luego lo aplicas a tu reto.
 
 | Sesión | Tema | Carpeta |
 | --- | --- | --- |
@@ -11,7 +11,6 @@ En estas dos sesiones aprendes las herramientas de IA generativa que te servirá
 
 ## Para todos
 - [`Guia_herramientas_gratuitas.md`](Guia_herramientas_gratuitas.md): qué herramientas gratuitas usar y cómo.
-- [`Preparacion_Hackaton_21_nov.md`](Preparacion_Hackaton_21_nov.md): qué llevar al sábado.
 - [`datos_practica/`](datos_practica/): datos **ficticios** para practicar (Academia de Música Sol Mayor).
 
 ## Reglas de oro
