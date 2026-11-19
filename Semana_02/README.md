@@ -5,7 +5,7 @@ En estas dos sesiones aprendes las herramientas de IA generativa que te servirá
 | Sesión | Tema | Carpeta |
 | --- | --- | --- |
 | 3 | Uso responsable, prompts y loops | [`Sesion_01`](Sesion_01/) |
-| 4 | System prompts, fuentes y alcance del asistente | _próximamente_ |
+| 4 | System prompts, fuentes y alcance del asistente | [`Sesion_02`](Sesion_02/) |
 
 > En esta semana las carpetas se numeran dentro de la semana (`Sesion_01`, `Sesion_02`); en el calendario del curso son las sesiones 3 y 4.
 

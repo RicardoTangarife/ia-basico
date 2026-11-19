@@ -8,7 +8,7 @@ Materiales de **Capa 2 · Inteligencia artificial · Nivel básico** (ruta de **
 | --- | --- | --- | --- |
 | 1 | 1 | Conociendo la IA: machine learning e IA generativa | [`Semana_01/Sesion_01`](Semana_01/Sesion_01/) |
 | 2 | 1 (sesión 3) | Uso responsable, prompts y loops | [`Semana_02/Sesion_01`](Semana_02/Sesion_01/) |
-| 2 | 2 (sesión 4) | System prompts, fuentes y alcance del asistente | _próximamente_ |
+| 2 | 2 (sesión 4) | System prompts, fuentes y alcance del asistente | [`Semana_02/Sesion_02`](Semana_02/Sesion_02/) |
 
 ## Cómo usar este repositorio
 1. Entra a la **semana** y **sesión** que quieres revisar.
