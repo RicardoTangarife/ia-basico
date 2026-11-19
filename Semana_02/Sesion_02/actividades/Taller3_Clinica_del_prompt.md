@@ -1,8 +1,8 @@
 # Taller 3 · Clínica del prompt y arena
 
-**Tiempo:** 55 min · **Equipos:** Grupos de maximo 5, **mezclados** (cualquier reto) · **Mismo caso para todos:** Academia Sol Mayor (ficticia) · **Fuentes:** [`politica_pagos_v1`](fuentes/politica_pagos_v1.md), [`politica_pagos_v2`](fuentes/politica_pagos_v2.md), [`mensaje_consulta_acudiente`](fuentes/mensaje_consulta_acudiente.md) y el [`prompt defectuoso`](fuentes/prompt_defectuoso.md).
+**Tiempo:** 55 min · **Equipos:** Grupos de maximo 5· **Mismo caso para todos:** Academia Sol Mayor (ficticia) · **Fuentes:** [`politica_pagos_v1`](fuentes/politica_pagos_v1.md), [`politica_pagos_v2`](fuentes/politica_pagos_v2.md), [`mensaje_consulta_acudiente`](fuentes/mensaje_consulta_acudiente.md) y el [`prompt defectuoso`](fuentes/prompt_defectuoso.md).
 
-**Propósito:** descubrir, probando, qué falla en un system prompt mal escrito; escribir su versión mejorada; y ver cómo se comparan las versiones de todos frente a las mismas pruebas. Sirve igual para AZA y para PREBEL.
+**Propósito:** descubrir, probando, qué falla en un system prompt mal escrito; escribir su versión mejorada; y ver cómo se comparan las versiones de todos frente a las mismas pruebas.
 
 ## Las 6 pruebas
 | # | Pregunta o archivo | ¿Qué esperarías de un buen asistente? |
