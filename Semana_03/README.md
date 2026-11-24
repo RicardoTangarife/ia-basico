@@ -6,7 +6,7 @@ Hasta ahora usaste la IA desde una app (ChatGPT, Gemini, Claude). En estas dos s
 | --- | --- | --- |
 | 5 | Del chat a la API: system prompt y user prompt | [`Sesion_01`](Sesion_01/) |
 
-> Las carpetas se numeran dentro de la semana (`Sesion_01`, `Sesion_02`); en el calendario del curso son las sesiones 5 y 6.
+> Las carpetas se numeran dentro de la semana (`Sesion_01`, `Sesion_02`); en el calendario del curso son las sesiones 4 y 5.
 
 ## Antes de la primera sesión
 1. Crea tu cuenta gratuita y tu clave de API siguiendo la [guía para crear tu clave](Sesion_01/actividades/Guia_crear_clave_groq.md). No es obligatorio hacerlo antes: lo hacemos juntos en clase, pero así avanzamos más rápido.

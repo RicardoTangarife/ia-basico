@@ -1,4 +1,4 @@
-# Semana 2 · Sesión 2 (sesión 4 del curso) · System prompts, fuentes y alcance
+# Semana 2 · Sesión 2 (sesión 3 del curso) · System prompts, fuentes y alcance
 
 **Tema:** convertir tu configuración en un asistente con alcance claro: qué hace, de qué fuente responde, qué no hace y cuándo pide ayuda. Lo aplicas a tu reto de la hackatón (AZA o PREBEL). El Taller 3 es para todos; el Taller 4 lo trabajas en sala con tu reto.
 
@@ -10,7 +10,7 @@
 ## Materiales
 | Material | Archivo |
 | --- | --- |
-| Presentación | [`presentacion/Sesion04_Capa2_basico_IA.pptx`](presentacion/Sesion04_Capa2_basico_IA.pptx) |
+| Presentación | [`presentacion/Sesion03_Capa2_basico_IA.pptx`](presentacion/Sesion03_Capa2_basico_IA.pptx) |
 | Taller 3 · Clínica del prompt y arena | [`actividades/Taller3_Clinica_del_prompt.md`](actividades/Taller3_Clinica_del_prompt.md) |
 | Taller 4 · Mi asistente y mi tabla de pruebas | [`actividades/Taller4_Mi_asistente_y_tabla_de_pruebas.md`](actividades/Taller4_Mi_asistente_y_tabla_de_pruebas.md) |
 | Guía · Qué hacer y qué no en un system prompt | [`actividades/Guia_system_prompts_haz_y_no_hagas.md`](actividades/Guia_system_prompts_haz_y_no_hagas.md) |

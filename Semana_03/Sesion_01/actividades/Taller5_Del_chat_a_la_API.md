@@ -25,7 +25,7 @@
 | Extra (si terminas antes) | Dos system prompts: preparador y revisor | |
 
 ## Las 6 pruebas
-Son las de la sesión 4. Las encuentras en el cuaderno (celda *POLITICA_PRUEBAS*).
+Son las de la sesión 3. Las encuentras en el cuaderno (celda *POLITICA_PRUEBAS*).
 
 | # | Prueba |
 | --- | --- |
