@@ -5,6 +5,7 @@ Hasta ahora usaste la IA desde una app (ChatGPT, Gemini, Claude). En estas dos s
 | Sesión | Tema | Carpeta |
 | --- | --- | --- |
 | 5 | Del chat a la API: system prompt y user prompt | [`Sesion_01`](Sesion_01/) |
+| 6 | Guardrails: lo que hay entre tú y el modelo | [`Sesion_02`](Sesion_02/) |
 
 > Las carpetas se numeran dentro de la semana (`Sesion_01`, `Sesion_02`); en el calendario del curso son las sesiones 4 y 5.
 
